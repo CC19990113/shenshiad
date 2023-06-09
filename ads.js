@@ -7,4 +7,4 @@ function rewardedVideoInit(adpid, callbackData) {
   });
 }
 
-export default {adReward}
+export default {adReward,rewardedVideoInit}
