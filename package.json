@@ -1,22 +1,22 @@
 {
-  "name": "shenshiad",
-  "version": "1.0.0",
-  "description": "test",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/CC19990113/shenshiad.git"
-  },
-  "keywords": [
-    "zcc5201314.."
-  ],
-  "author": "zhaochangchang",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CC19990113/shenshiad/issues"
-  },
-  "homepage": "https://github.com/CC19990113/shenshiad#readme"
+	"name": "shenshiad",
+	"version": "1.0.1",
+	"description": "神蓍广告H5对接UniApp",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/CC19990113/shenshiad.git"
+	},
+	"keywords": [
+		"神蓍广告，H5广告，APP广告"
+	],
+	"author": "zhaochangchang",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/CC19990113/shenshiad/issues"
+	},
+	"homepage": "https://github.com/CC19990113/shenshiad#readme"
 }
