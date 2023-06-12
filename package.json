@@ -1,6 +1,6 @@
 {
 	"name": "shenshiad",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "神蓍广告H5对接UniApp",
 	"main": "index.js",
 	"scripts": {
