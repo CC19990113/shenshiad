@@ -1,7 +1,7 @@
 {
 	"name": "shenshiad",
-	"version": "1.0.4",
-	"description": "神蓍广告H5对接UniApp",
+	"version": "1.2.3",
+	"description": "支持激励，插屏，开屏广告",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
